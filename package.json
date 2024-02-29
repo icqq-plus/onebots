@@ -1,5 +1,5 @@
 {
-  "name": "onebots",
+  "name": "@icqq-plus/onebots",
   "version": "0.4.60",
   "description": "基于icqq的多例oneBot实现",
   "engines": {
